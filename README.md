@@ -7,16 +7,10 @@ This repository contains code for a deep learning project aimed at detecting lun
 
 ## Project Structure
 - `data/`: Contains the dataset with images categorized into `malignant`, `benign`, and `normal`.
-      data/
-      ├── Normal/
-      │   ├── image1.jpg
-      │   └── ...
-      ├── Benign/
-      │   ├── image1.jpg
-      │   └── ...
-      └── Malignant/
-          ├── image1.jpg
-          └── ...
+      data/Normal/images.jpg
+      data/Benign/images.jpg
+      data/Malignant/images.jpg
+      
 - `notebooks/`: Jupyter notebook file for exploratory data analysis, model development, training, and evaluation.
 
 ## Requirements
